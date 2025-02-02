@@ -1,2 +1,1 @@
-# a-star
-The implemention of A* Algorithm on Rust
+# The implemention of A* Algorithm on Rust
